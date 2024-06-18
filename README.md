@@ -20,7 +20,7 @@
 
 ![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/linedivider.gif)
 <p align="center">
-  <img src="https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg?label=Views&extraCount=0&color=31b573" alt="Hits">
+  <img src="https://hits.sh/github.com/DefixBots/PumpGain-Sniper-Bot.svg?label=Views&extraCount=0&color=31b573" alt="Hits">
   <img src="https://img.shields.io/github/stars/DefixBots/PumpGain-Sniper-Bot" alt="GitHub Repo stars">
 </p>
 
