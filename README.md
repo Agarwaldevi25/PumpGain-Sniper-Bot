@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://defix.shop/wp-content/uploads/uploads/2023/08/logo1.png" alt="LOGO">
+  <img src="https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/banner.png" alt="LOGO">
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
