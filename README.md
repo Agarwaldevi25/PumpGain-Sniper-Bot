@@ -135,7 +135,7 @@ Video:
 
 
 # Contact 📞
-![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/banner.png)
 
 [Telegram](https://t.me/DefiXTeam)
 - Telegram : @DefixTeam
