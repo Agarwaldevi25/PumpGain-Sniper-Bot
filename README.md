@@ -1,4 +1,4 @@
-<h1 align="center"> PumpGain - Pump.fun Telegram Sniper Bot</h1> <br>
+<h1 align="center"> PumpGain - Pump.fun Telegram Sniper Bot (OPEN BETA)</h1> <br>
 <p align="center">
   <a href=""> 
     
@@ -21,24 +21,18 @@
   <img src="https://img.shields.io/github/stars/Defix-Shop/Defix-Solana-Sniping-Bot-Trial" alt="GitHub Repo stars">
 </p>
 
+PumpGain is currently the fastest SPL Token Sniper for Pump.fun. It uses a custom-built Pump.Fun API that scans for new mints every 50 milliseconds, allowing it to snipe faster and earlier than other bots on the market. The bot runs a lightweight RPC to validate transactions from the same server where sniping happens, keeping average latency below 100 milliseconds. 
 
-📞 Join our TG channel to check how we snipe with the premium version: https ://t.me/defixann 📞
+Open beta is currently available for any user. In the future, there are plans to implement better RPCs and reduce the scraping time for new mints. Although there will always be a free tier option, there will be tiered pricing plans to offer enhanced features and performance options for users.
 
-
-<p align="center">
-  <a href ="https://t.me/DefiXTeam">
-  
-  </a>
-</p>
-
-## Characteristics 🌟
+## Features🌟
 
 ![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
-- Sniping: Execute purchase transactions swiftly upon liquidity injection into an SPL token, ensuring swift access to emerging token opportunities.
-- Take Profit: Automatically trigger token sales when a predetermined profit percentage is achieved, securing profits without manual intervention.
-- Buy/Sell x Times: Employ repetitive buy orders to strategically accumulate or divest tokens, optimizing investment positions.
-- Sell Limit Order: Implement automated token sales at predefined price levels, enabling proactive profit-taking.
+
+- Sniping: Automatically buy Pump.fun SPL Token as soon as it is launched, BOT checks for new mints every 50ms. Fully Implemented
+- Take Profit: Automatically trigger token sales when a predetermined profit percentage is achieved, securing profits without manual intervention. Being Implemented
+- Sell Limit Order: Implement automated token sales at predefined price levels, enabling proactive profit-taking. Being Implemented
 - User-friendly Interface: Benefit from an intuitive and accessible interface, facilitating seamless interaction and navigation.
 - Anti-rug Measures: Incorporate safeguards to monitor wallet activity and identify potential rug pulls, preempting adverse market events.
 - Buy Delay: Buying with the desired delay.
