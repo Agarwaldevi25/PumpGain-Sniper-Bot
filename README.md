@@ -30,7 +30,7 @@ Open beta is currently available for any user. In the future, there are plans to
 ![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
 - User Friendly UI on Telegram. FULLY IMPLEMENTED ✅
-- Self Hosted Pump.Fun API - FULLY IMPLEMENTED
+- Self Hosted Pump.Fun API - FULLY IMPLEMENTED ✅
 - Light end RPC to validate transactions under a lower latency than average. - FULLY IMPLEMENTED ✅
 - Sniping Settings - User is able to choose Amount, Slippage, Fee and If Sniper will only scrape for Mints with Social Media links. FULLY IMPLEMENTED ✅
 - Sniping: Automatically buy Pump.fun SPL Token as soon as it is launched, BOT checks for new mints every 50ms. FULLY IMPLEMENTED ✅
@@ -44,14 +44,12 @@ Open beta is currently available for any user. In the future, there are plans to
 
 ![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
-- Navigate to the project folder
+- Access the BOT Link https://t.me/Pumpgain_bot
 
-- Install the required libraries 
-
-Run the following command to install the required libraries for the project:
+Main Commands:
 
 ```python
-npm install
+/Start - the Bot will display the main Menu and generate a new unique wallet which can be extracted at any moment by the user via the Menu Option "Wallets"
 ```
 - ***Edit Private Key in .Env File***
 
