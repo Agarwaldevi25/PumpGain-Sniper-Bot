@@ -54,7 +54,7 @@ PumpGain's unique custom-built API, low latency RPC operations, and frequent sca
 
 ## Features🌟
 
-![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/linedivider.gif)
 
 - User Friendly UI on Telegram. FULLY IMPLEMENTED ✅
 - Self Hosted Pump.Fun API - FULLY IMPLEMENTED ✅
@@ -69,7 +69,7 @@ PumpGain's unique custom-built API, low latency RPC operations, and frequent sca
 
 ## How to Use 🛠️
 
-![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/linedivider.gif)
 
 - Access the BOT Link https://t.me/Pumpgain_bot
 
@@ -83,7 +83,7 @@ Rest of the Options are directly accessible via the Main Menu
 
 
 ## Settings 🔧
-![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/linedivider.gif)
 
 (***Configurable by editing .env file***)
 - Enter BUY_DELAY : In seconds after launch. Set to 0, Token will buy immediately after token launch
