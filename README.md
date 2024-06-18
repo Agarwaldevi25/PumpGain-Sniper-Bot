@@ -82,6 +82,13 @@ Main Commands:
 
 Rest of the Options are directly accessible via the Main Menu
 
+## Open Beta UI 🟡
+
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/menu.png
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/settings.png
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/sniping.png
+
+
 # Contact 📞
 
 - Telegram : @cyrust
