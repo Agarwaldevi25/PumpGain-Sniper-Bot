@@ -48,20 +48,8 @@ Open beta is currently available for any user. In the future, there are plans to
 
 Main Commands:
 
-```python
-/Start - the Bot will display the main Menu and generate a new unique wallet which can be extracted at any moment by the user via the Menu Option "Wallets"
-```
-- ***Edit Private Key in .Env File***
+- /Start - the Bot will display the main Menu and generate a new unique wallet which can be extracted at any moment by the user via the Menu Option "Wallets"
 
-- Run the project
-
-Run the following command to start the project:
-
-
-
-```python
-npm run buy
-```
 
 
 
