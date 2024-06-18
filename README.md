@@ -1,4 +1,5 @@
 <h1 align="center"> PumpGain - Pump.fun Telegram Sniper Bot (OPEN BETA)</h1> <br>
+<h1 align="center"> https://t.me/Pumpgain_bot</h1> <br>
 <p align="center">
   <a href=""> 
     
@@ -9,6 +10,8 @@
 <p align="center">
   <img src="https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/banner.png" alt="LOGO">
 </p>
+
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -49,8 +52,10 @@ Open beta is currently available for any user. In the future, there are plans to
 Main Commands:
 
 - /Start - the Bot will display the main Menu and generate a new unique wallet which can be extracted at any moment by the user via the Menu Option "Wallets"
+- /Stop - Stops the Sniping loop and Returns the Main Menu. 
+- /Settings - Displays the current Trading Settings to the user, these can be changed via the Main Menu Button "Trade Settings"
 
-
+Rest of the Options are directly accessible via the Main Menu
 
 
 ## Settings 🔧
