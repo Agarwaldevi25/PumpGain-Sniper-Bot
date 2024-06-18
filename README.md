@@ -6,6 +6,7 @@
   </a>
 </p>
 
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/linedivider.gif)
 
 <p align="center">
   <img src="https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/banner.png" alt="LOGO">
