@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/github/stars/Defix-Shop/Defix-Solana-Sniping-Bot-Trial" alt="GitHub Repo stars">
 </p>
 
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/linedivider.gif)
 
 What is PumpGain?
 PumpGain is the fastest SPL Token Sniper for Pump.fun, using a custom-built Pump.Fun API to scan for new mints every 50 milliseconds. This enables it to snipe tokens faster and earlier than other bots on the market.
