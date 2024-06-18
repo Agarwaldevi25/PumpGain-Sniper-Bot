@@ -29,22 +29,15 @@ Open beta is currently available for any user. In the future, there are plans to
 
 ![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
+- User Friendly UI on Telegram. FULLY IMPLEMENTED ✅
 - Self Hosted Pump.Fun API - FULLY IMPLEMENTED
-- Light end RPC to validate transactions under a lower latency than average. - FULLY IMPLEMENTED
-- Sniping: Automatically buy Pump.fun SPL Token as soon as it is launched, BOT checks for new mints every 50ms. FULLY IMPLEMENTED
-- Take Profit: Automatically trigger token sales when a predetermined profit percentage is achieved, securing profits without manual intervention. Being Implemented
-- Sell Limit Order: Implement automated token sales at predefined price levels, enabling proactive profit-taking. Being Implemented
-- User-friendly Interface: Benefit from an intuitive and accessible interface, facilitating seamless interaction and navigation.
-- Anti-rug Measures: Incorporate safeguards to monitor wallet activity and identify potential rug pulls, preempting adverse market events.
-- Buy Delay: Buying with the desired delay.
+- Light end RPC to validate transactions under a lower latency than average. - FULLY IMPLEMENTED ✅
+- Sniping Settings - User is able to choose Amount, Slippage, Fee and If Sniper will only scrape for Mints with Social Media links. FULLY IMPLEMENTED ✅
+- Sniping: Automatically buy Pump.fun SPL Token as soon as it is launched, BOT checks for new mints every 50ms. FULLY IMPLEMENTED ✅
+- Take Profit: Automatically trigger token sales when a predetermined profit percentage is achieved, securing profits without manual intervention. BEING IMPLEMENTED 🛠️
+- Sell Limit Order: Implement automated token sales at predefined price levels, enabling proactive profit-taking. BEING IMPLEMENTED 🛠️
+- Anti-rug Measures: Incorporate safeguards to monitor wallet activity and identify potential rug pulls, preempting adverse market events. BEING IMPLEMENTED 🛠️
 
-
-## Installation ⚙️
-
-![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
-
-- ***Download and Install Node.js*** (https://nodejs.org/en)
-- ***Download Latest Bot release*** (https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/releases/download/1.09/Defix.Solana.Sniper.Trial.v1.09.rar)
 
 
 ## How to Use 🛠️
