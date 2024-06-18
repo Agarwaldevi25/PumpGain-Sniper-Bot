@@ -81,15 +81,6 @@ Main Commands:
 
 Rest of the Options are directly accessible via the Main Menu
 
-
-## Settings 🔧
-![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/linedivider.gif)
-
-(***Configurable by editing .env file***)
-- Enter BUY_DELAY : In seconds after launch. Set to 0, Token will buy immediately after token launch
-- SELL_PERCENT : Take-Profit Order (TP) . Token places a sell order and confirms immediately after reaching the target
-- Enable AUTO_SELL_DELAY : to the number of seconds you want to wait before selling the token. Set to 0, token will be sold immediately after it is bought.
-
 # Contact 📞
 
 - Telegram : @cyrust
