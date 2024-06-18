@@ -1,4 +1,4 @@
-<h1 align="center"> Defix Solana Sniping Bot UI Trial</h1> <br>
+<h1 align="center"> PumpGain - Pump.fun Telegram Sniper Bot</h1> <br>
 <p align="center">
   <a href=""> 
     
