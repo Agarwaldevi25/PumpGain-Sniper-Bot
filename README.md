@@ -18,14 +18,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
+![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/linedivider.gif)
 <p align="center">
   <img src="https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg?label=Views&extraCount=1356&color=11c3cc" alt="Hits">
   <img src="https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg?label=Downloads&extraCount=347&color=b211cc" alt="Downloads">
   <img src="https://img.shields.io/github/stars/Defix-Shop/Defix-Solana-Sniping-Bot-Trial" alt="GitHub Repo stars">
 </p>
 
-![](https://github.com/DefixBots/PumpGain-Sniper-Bot/blob/main/linedivider.gif)
+
 
 What is PumpGain?
 PumpGain is the fastest SPL Token Sniper for Pump.fun, using a custom-built Pump.Fun API to scan for new mints every 50 milliseconds. This enables it to snipe tokens faster and earlier than other bots on the market.
