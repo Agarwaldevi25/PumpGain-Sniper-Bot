@@ -91,6 +91,6 @@ Rest of the Options are directly accessible via the Main Menu
 
 # Contact 📞
 
-- Telegram : @cyrust
+- Telegram : @Pumpgaindev
 
 
