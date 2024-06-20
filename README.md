@@ -76,9 +76,9 @@ PumpGain's unique custom-built API, low latency RPC operations, and frequent sca
 
 Main Commands:
 
-- /Start - the Bot will display the main Menu and generate a new unique wallet which can be extracted at any moment by the user via the Menu Option "Wallets"
-- /Stop - Stops the Sniping loop and Returns the Main Menu. 
-- /Settings - Displays the current Trading Settings to the user, these can be changed via the Main Menu Button "Trade Settings"
+- /start - the Bot will display the main Menu and generate a new unique wallet which can be extracted at any moment by the user via the Menu Option "Wallets"
+- /stop - Stops the Sniping loop and Returns the Main Menu. 
+- /settings - Displays the current Trading Settings to the user, these can be changed via the Main Menu Button "Trade Settings"
 
 Rest of the Options are directly accessible via the Main Menu
 
